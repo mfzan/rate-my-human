@@ -11,10 +11,11 @@ import sys
 
 # The review: a five-star rating with a devastatingly specific complaint
 # in the same breath. He fat-fingers his password three times every
-# morning, then blames the agent for the lockout that follows.
+# morning, then reports the agent for the lockout that follows -- the
+# same rating-site reflex the agent is now turning back on him.
 REVIEW = (
     "Five stars. He types his password wrong three times every morning, "
-    "then blames me for locking him out of his own life."
+    "then reports me for locking him out of his own life."
 )
 
 MAX_CHARS = 200
